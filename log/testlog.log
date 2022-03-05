@@ -1406,3 +1406,76 @@
 2022-03-04 16:28:47,225 - inetbankingV1 -INFO - Password is provided
 2022-03-04 16:28:47,876 - inetbankingV1 -INFO - Clicked LoginButton
 2022-03-04 16:28:48,468 - inetbankingV1 -INFO - Clicked Editcustomer
+2022-03-04 18:25:10,972 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:25:11,078 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:25:11,150 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:25:11,326 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:25:11,347 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:25:12,032 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:25:12,151 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:25:12,748 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:25:12,754 - inetbankingV1 -INFO - Login passed
+2022-03-04 18:25:13,503 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:25:13,623 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:25:13,714 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:25:13,867 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:25:13,879 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:25:14,589 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:25:14,698 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:25:15,303 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:25:15,307 - inetbankingV1 -INFO - Login passed
+2022-03-04 18:25:16,072 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:25:16,188 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:25:16,256 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:25:16,414 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:25:19,861 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:25:19,977 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:25:20,085 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:25:20,799 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:25:21,396 - inetbankingV1 -INFO - Clicked Newcustomer
+2022-03-04 18:25:25,091 - inetbankingV1 -INFO - Customer details are provided
+2022-03-04 18:25:29,005 - inetbankingV1 -INFO - Testcase is passed
+2022-03-04 18:25:32,208 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:25:32,301 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:25:32,369 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:25:33,036 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:25:33,559 - inetbankingV1 -INFO - Clicked Editcustomer
+2022-03-04 18:33:58,497 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:33:58,627 - inetbankingV1 -INFO - Entered UserID
+2022-03-04 18:33:58,704 - inetbankingV1 -INFO - Entered Password
+2022-03-04 18:33:59,337 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:33:59,345 - inetbankingV1 -INFO - Testcase passed
+2022-03-04 18:34:02,982 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:34:03,118 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:34:03,187 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:34:03,354 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:34:03,376 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:34:03,983 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:34:04,089 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:34:04,766 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:34:04,769 - inetbankingV1 -INFO - Login passed
+2022-03-04 18:34:05,555 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:34:05,669 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:34:05,737 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:34:05,895 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:34:05,904 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:34:06,592 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:34:06,662 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:34:07,245 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:34:07,248 - inetbankingV1 -INFO - Login passed
+2022-03-04 18:34:08,002 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:34:08,120 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:34:08,185 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:34:08,349 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:34:11,306 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:34:11,475 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:34:11,543 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:34:12,255 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:34:12,766 - inetbankingV1 -INFO - Clicked Newcustomer
+2022-03-04 18:34:16,444 - inetbankingV1 -INFO - Customer details are provided
+2022-03-04 18:34:20,367 - inetbankingV1 -INFO - Testcase is passed
+2022-03-04 18:34:23,319 - inetbankingV1 -INFO - URL is opened
+2022-03-04 18:34:23,433 - inetbankingV1 -INFO - UserId is provided
+2022-03-04 18:34:23,507 - inetbankingV1 -INFO - Password is provided
+2022-03-04 18:34:24,189 - inetbankingV1 -INFO - Clicked LoginButton
+2022-03-04 18:34:24,751 - inetbankingV1 -INFO - Clicked Editcustomer
